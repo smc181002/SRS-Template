@@ -46,7 +46,7 @@ Table of Contents
 * 4 [Verification](#4-verification)
 * 5 [Appendixes](#5-appendixes)
 
-## Revision History
+## [Revision History](#revision-history)
 | Name | Date    | Reason For Changes  | Version   |
 | ---- | ------- | ------------------- | --------- |
 |      |         |                     |           |
